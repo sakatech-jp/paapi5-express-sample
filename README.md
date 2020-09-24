@@ -18,6 +18,7 @@ module.exports = {
   PARTNER_TYPE: 'Associates'
 }
 ```
+Run the app.
 ```
 $ node app.js
 ```
